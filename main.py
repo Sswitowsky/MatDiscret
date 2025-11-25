@@ -1,0 +1,1 @@
+print("labs discreta 504")
